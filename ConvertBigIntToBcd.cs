@@ -1,4 +1,4 @@
-        public static byte[] ConvertBigIntToBcd(long numberToConvert, int howManyBytes, byte paddingChar)
+        public static byte[] ConvertBigIntToBcd(long numberToConvert, int howManyBytes)
         {
             var convertedNumber = new byte[howManyBytes];
             var strNumber = numberToConvert.ToString();
