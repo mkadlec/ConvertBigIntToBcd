@@ -1,7 +1,7 @@
 ConvertBigIntToBcd
 ==================
 
-Convert a BigInt to a Binary Coded Decimal with padding
+Convert a standard .net integer (4 bytes) to a Binary Coded Decimal with padding
 
 For example:
 
